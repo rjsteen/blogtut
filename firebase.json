@@ -1,3 +1,4 @@
+{
   "firebase": "blogtut",
   "public": "dist",
     "rewrites": [{
