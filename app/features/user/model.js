@@ -5,5 +5,5 @@ export default DS.Model.extend({
   username: DS.attr('string'),
   avatar: DS.attr('string'),
   posts: DS.hasMany('post'),
-  comments: DS.hasMany('comment') 
+  comments: DS.hasMany('comment')
 });

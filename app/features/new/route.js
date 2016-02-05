@@ -1,5 +1,5 @@
-import Ember from 'ember';  
-import cleanURI from '../clean/util';  
+import Ember from 'ember';
+import cleanURI from '../clean/util';
 import getOrCreateUser from '../get-or-create-user/util';
 
 const {get, set } = Ember;
